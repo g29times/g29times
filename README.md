@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)  
   
-  ![](https://komarev.com/ghpvc/?username=g29times&style=for-the-badge&color=brightgreen&base=123456)
+  ![](https://komarev.com/ghpvc/?username=g29times&style=for-the-badge&color=brightgreen&base=12345)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g29times&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
