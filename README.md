@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building LLM systems
+- 🔭 Founder of https://aimmar.ai/
+- 🌱 Partner of CCD
 - 📫 How to reach me: g29tony@gmail.com
 <!--
 **g29times/g29times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
