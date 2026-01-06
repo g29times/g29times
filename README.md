@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Founder of https://aimmar.ai/
+- 🔭 Founder of https://aimmar.ink/
 - 🌱 Partner of CCD
 - 📫 How to reach me: g29tony@gmail.com
 <!--
