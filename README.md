@@ -1,6 +1,6 @@
 ## I'm NEO 👋
 
-**Software Architecture** · **Full Stack Agent Engineer** · **Enterprise Management**
+**Full Stack Software Engineer & Architecture** · **Entrepreneur & Enterprise Management**
 
 - Building production ready AI systems.
 - **1,000,000+ ** lines of enterprise level code.
