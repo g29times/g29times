@@ -12,9 +12,9 @@
 ### Work
 
 - 🔭 **Founder** of [Aimmar](https://aimmar.ink) — A Vibe Agent
-- 🌱 **Partner** of [CCD](https://www.ccd.com.hk)  - World leading interior design and consultancy firm.
-- 🌱 **Creator** of Deep Read - A Browser extension for AI-read pligin
-- 📫 How to reach me: g29tony@gmail.com
+- 🌱 Former **Partner** of [CCD](https://www.ccd.com.hk)  - World leading interior design and consultancy firm.
+- 🌱 **Creator & Builder** of Deep Read - A Browser extension for AI-read pligin
+- 📫 g29tony@gmail.com
 
 ### Stack
 
