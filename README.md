@@ -1,4 +1,4 @@
-## NEO LEE 👋
+## I'm NEO 👋
 
 **Software Architecture** · **Full Stack Agent Engineer** · **Enterprise Management**
 
