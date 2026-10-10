@@ -2,10 +2,11 @@
 
 **Software Architecture** · **Full Stack Agent Engineer** · **Enterprise Management**
 
-- Building production **AI-READY** systems.
-- **1,000,000+ lines** of enterprise code.
-- LangGraph multi-agent architectures.
-
+- Building production ready AI systems.
+- **1,000,000+ ** lines of enterprise level code.
+- Multi-agent architecture.
+- Researching RSI(Recursive Self-Improvement).
+  
 ---
 
 ### Work
